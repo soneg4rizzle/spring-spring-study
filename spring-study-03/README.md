@@ -28,7 +28,7 @@
 
 > HelloController.java 파일에서 MVC 모델에 애트리뷰트를 추가한다.  
 > 이 때 "data"는 타임리프 템플릿을 적용한 hello.html 파일에서 사용할 변수 이름이고  
-> "hello!!" 는 햏당 변수에 들어갈 값을 의미한다.  
+> "hello!!" 는 해당 변수에 들어갈 값을 의미한다.  
 > @GetMapping("hello") : HTTP GET 요청을 특정 핸들러 메소드에 맵핑하기위한 annotation을 의미한다.  
 <br><br><br>
 
