@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/96826443/225839359-5f943506-a303-4c20-aef7-5c5086bd68f7.png)<br><br><br>
 
 > `cd build/libs` 폴더로 이동한 후에 `java -jar hello-spring-0.0.1-SNAPSHOT.jar` 실행
-![image](https://user-images.githubusercontent.com/96826443/225839826-a1ed1b54-ed02-446a-8166-947b6b0f65c5.png)
+![image](https://user-images.githubusercontent.com/96826443/225841048-52666506-76a4-426f-964e-5abf5a72bfd4.png)
 
 
 ## 빌드 확인
